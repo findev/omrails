@@ -1,4 +1,7 @@
 Omrails::Application.routes.draw do
+  resources :deals
+
+
   root :to => 'pages#home'
 
   get 'about' => 'pages#about'
