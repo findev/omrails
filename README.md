@@ -1,6 +1,3 @@
-# One Month Rails
+# Deals Out
 
-This is the sample application for 
-One Month Rails.
-
-I am learning how to code.
+This is the sample application created while I am teaching myself how to code
